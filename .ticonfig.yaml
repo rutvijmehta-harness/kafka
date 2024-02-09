@@ -4,3 +4,4 @@ config:
     - ".ticonfig.yaml"
     - "**/*.md"
     - "**/*.txt"
+    - "**/*.html"
