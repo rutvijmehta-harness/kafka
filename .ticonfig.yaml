@@ -10,3 +10,6 @@ config:
     - "config/kraft/README.md"
     - "**/*.properties"
     - "examples/README"
+    - "**/*.py"
+    - "**/*.sh"
+    - "tests/docker/Dockerfile"
