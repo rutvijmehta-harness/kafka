@@ -6,3 +6,7 @@ config:
     - "**/*.txt"
     - "**/*.html"
     - "**/*.xml"
+    - "gradlewAll"
+    - "config/kraft/README.md"
+    - "**/*.properties"
+    - "examples/README"
