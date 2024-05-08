@@ -16,7 +16,6 @@
  */
 package org.apache.kafka.common;
 
-
 import java.net.InetSocketAddress;
 import java.util.ArrayList;
 import java.util.Arrays;
