@@ -16,6 +16,7 @@
  */
 package org.apache.kafka.connect.header;
 
+
 import org.apache.kafka.common.utils.AbstractIterator;
 import org.apache.kafka.connect.data.Date;
 import org.apache.kafka.connect.data.Decimal;
