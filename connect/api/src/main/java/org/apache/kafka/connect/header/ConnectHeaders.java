@@ -26,7 +26,7 @@ import org.apache.kafka.connect.data.Struct;
 import org.apache.kafka.connect.data.Time;
 import org.apache.kafka.connect.data.Timestamp;
 import org.apache.kafka.connect.errors.DataException;
-
+// test
 import java.math.BigDecimal;
 import java.nio.ByteBuffer;
 import java.util.Collections;
