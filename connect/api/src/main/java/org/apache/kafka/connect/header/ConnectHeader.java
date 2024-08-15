@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 package org.apache.kafka.connect.header;
-
+// test
 import org.apache.kafka.connect.data.Schema;
 import org.apache.kafka.connect.data.SchemaAndValue;
 import org.apache.kafka.connect.data.Struct;
